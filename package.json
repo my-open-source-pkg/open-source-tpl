@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "esbuild src/index.ts --bundle --outfile=dist/out.js",
+    "build": "rm -rf dist && esbuild src/index.ts --bundle --outfile=dist/out.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install"
   },
