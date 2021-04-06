@@ -27,3 +27,9 @@ coverage
 ```bash
 pad eslint
 ```
+
+## [add lint-staged](https://github.com/okonet/lint-staged#readme)
+
+```bash
+px mrm lint-staged
+```
