@@ -1,0 +1,14 @@
+devDependencies:
+  prettier: 2.2.1
+lockfileVersion: 5.2
+packages:
+  /prettier/2.2.1:
+    dev: true
+    engines:
+      node: '>=10.13.0'
+    hasBin: true
+    resolution:
+      integrity: sha1-eVoaeN1S8HPaDNQrIfnJE4GSP/U=
+      tarball: prettier/download/prettier-2.2.1.tgz
+specifiers:
+  prettier: ^2.2.1
